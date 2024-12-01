@@ -1,0 +1,20 @@
+(1) chooses two prime numbers
+(2) finds the product of 'em
+(3) finds the totient of the product
+(4) selects two relatively prime numbers to the totient
+(5) find product of these two prime numbers
+(6) find modulus of the product to the totient
+
+public key: first product and first chosen prime of the totient
+private key: first product and second chosen prime of the totient
+	
+
+(1) 157, 199
+(2) 31243
+(3) 31243 - 157 - 199 + 1 = 30888
+(4) 163, 379
+(5) 61777
+(6) 61777 mod 30888 = 1
+
+public key: 31243 and 163
+private key: 31243 and 379

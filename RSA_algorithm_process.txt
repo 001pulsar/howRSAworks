@@ -8,7 +8,7 @@
 public key: first product and first chosen prime of the totient
 private key: first product and second chosen prime of the totient
 	
-
+example:
 (1) 157, 199
 (2) 31243
 (3) 31243 - 157 - 199 + 1 = 30888
